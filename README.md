@@ -128,6 +128,18 @@ simple it didn´t  crash.
 | Firefox |     +       |      +        |
 | Safari. |     +       |      +        |
 
+
+# Manual Testing 
+
+
+| Feature           | Expect           | Action             | Result           |
+|-------------------|------------------|--------------------|------------------|
+|Start Quiz button  | The rules appear |click Exit/Continue |enters game/leaves|
+|Buttons Quiz       | NextButton appear|Button color change |Score + -         |
+|Next               | next Question    |new questions       |new question      |
+|Play again         | New Game         |new game with 4 new |new game          |
+|                   |                  |questions           |                  |
+
 # Credits
 
 * YouTube Create a Quiz with Timer using HTML CSS Javascript.

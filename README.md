@@ -122,4 +122,4 @@ simple it didn´t  crash.
 # Credits
 
 * YouTube Create a Quiz with Timer using HTML CSS Javascript.
-* YouTube How to make a Quiz App u
+* YouTube How to make a Quiz App Using Javascript

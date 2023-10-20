@@ -2,7 +2,7 @@
 
 ![Responsive](IMG-8199.jpg)
 
-[Link to live site](https://charly1357.github.io/quizend)
+[Link to live site](https://charly1357.github.io/quizabgabe)
 
 # Index -Table of Contents
 
@@ -67,7 +67,7 @@ At the end it shows you the number of correct answer out of the total.
 In this part the user can see the Question and choose between
 four different answers
 
-![Game Are](IMG-8213.jpg)
+![Game Area](IMG-8213.jpg)
 
 # The question section
 
@@ -101,7 +101,7 @@ simple it didn´t  crash.
 
 # Perfommance
 
-![Performance]()
+![Performance](IMG-8218.jpeg)
 
 # Validator Testing
 

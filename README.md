@@ -123,10 +123,10 @@ simple it didn´t  crash.
 
 | Browser |    Layout.  | Functionality |
 |---------|:-----------:|---------------|
-| Chrome  |     -[x]    |     -[x].     |
-| Edge    |     -[x]    |     -[x].     |
-| Firefox |     -[x]    |.    -[x].     |
-| Safari. |.    -[x].   |.    -[x].     |
+| Chrome  |     +       |      +        |
+| Edge    |     +       |      +        |
+| Firefox |     +       |      +        |
+| Safari. |     +       |      +        |
 
 # Credits
 

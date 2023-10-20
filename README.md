@@ -91,7 +91,7 @@ score is a point versus total score.
 * This area will allow the user to see exactly how many correct and
 * and incorrect answers they have
   
-![Score Area](IMG-8215.jpg)
+![Score Area](5Picture.jpeg)
 
 # Features Left to Implement
 

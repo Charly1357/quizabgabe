@@ -122,7 +122,7 @@ simple it didn´t  crash.
 # Browser Testing 
 
 | Browser |    Layout.  | Functionality |
-|---------|:-----------:|---------------|
+|---------|:-----------:|:-------------:|
 | Chrome  |     +       |      +        |
 | Edge    |     +       |      +        |
 | Firefox |     +       |      +        |

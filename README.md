@@ -70,7 +70,7 @@ At the end it shows you the number of correct answer out of the total.
 In this part the user can see the Question and choose between
 four different answers
 
-![Game Area](IMG-8213.jpg)
+![Game Area](3Picture.jpeg)
 
 # The question section
 

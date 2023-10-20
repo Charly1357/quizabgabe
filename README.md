@@ -1,39 +1,120 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Responsive](IMG-8199.jpg)
 
-Welcome,
+[Link to live site](https://charly1357.github.io/quizend)
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+# Index -Table of Contents
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+***
 
-## Codeanywhere Reminders
+* Design
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+  * Wireframes
+  * Font and Colours
 
-`python3 -m http.server`
+* Features
+  * Existing Features
+  * Future Features
+* UX
+  * Goals
+* Testing
+  * Validator
+  * Browser
+  * Manual Testing
+* Deployment
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* Credits
+  * Code
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+# Site Goals
+  
+The goal is to provide the quiz game lovers with a simple short  game
 
-`http_server`
+# Colors
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+I followed a blue white color scheme
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* Black:
+  * background app
+  * next button
+  * play again button
+  * hover buttons
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+* White:
+  * background game area
+  * buttons
 
-To log into the Heroku toolbelt CLI:
+* Green:
+  * buttons corect answer
+* Red:
+  * button wrong answer
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+# Features
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+![Title](IMG-8204.jpg)
 
----
+ At the top left is the Quiz heading
 
-Happy coding!
+# The Game Area
+
+It has a very short Javascript Code to demostrate what is possible.  
+There are four questions where each has four different answers.
+You can only choose  once per question and the different
+colors indicate if the answer was correct or wrong.
+At the end it shows you the number of correct answer out of the total.
+
+In this part the user can see the Question and choose between
+four different answers
+
+![Game Are](IMG-8213.jpg)
+
+# The question section
+
+![Game Area](IMG-8212.jpg)
+
+In this section the user can read the question
+and the number  and choose between four  
+different buttons the correct answer.
+If the button is correct the background color changes to green.
+otherwise  the background color changes to red and the correct
+answer button is shown with a green background.
+The buttons are disabled and the next buttons appears
+After going through the four questions the user gets the result correct
+score is a point versus total score.  
+
+# The Score Area
+
+* This area will allow the user to see exactly how many correct and
+* and incorrect answers they have
+  
+![Score Area](IMG-8215.jpg)
+
+# Features Left to Implement
+
+The user should be able to select between different topics the questions.
+
+# Testing
+
+The testing was done between several other people and since it is very
+simple it didn´t  crash.
+
+# Perfommance
+
+![Performance]()
+
+# Validator Testing
+
+* HTML
+  * Document checking completed. No errors or warnings to show.
+  
+* CSS
+  * Document checking completed. No errors or warnings to show.  
+
+* JAVA  
+  * several errors
+    * 39:25 error 'document' is not defined
+    * 40:23 / 41:20 /57:20the same
+  
+# Credits
+
+* YouTube Create a Quiz with Timer using HTML CSS Javascript.
+* YouTube How to make a Quiz App u

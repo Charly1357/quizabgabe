@@ -52,9 +52,12 @@ I followed a blue white color scheme
 
 # Features
 
-![Title](IMG-8204.jpg)
+![Title](IMG-8221.jpg)
 
- At the top left is the Quiz heading
+After pushing the Start Button the rules appear  
+You can either Exit or Continue  
+When exit is pushed you return to the main otherwise  
+you enter the Quiz
 
 # The Game Area
 

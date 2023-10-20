@@ -1,6 +1,6 @@
 # Quiz simple
 
-![Responsive](IMG-8199.jpg)
+![Responsive](IMG-8199.jpeg)
 
 [Link to live site](https://charly1357.github.io/quizabgabe)
 
@@ -52,7 +52,7 @@ I followed a blue white color scheme
 
 # Features
 
-![Title](IMG-8221.jpg)
+![Title](IMG-8221.jpeg)
 
 After pushing the Start Button the rules appear  
 You can either Exit or Continue  

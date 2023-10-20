@@ -5,21 +5,18 @@ const continue_btn = info_box.querySelector(".buttons .restart");
 const quiz_box = document.querySelector(".app");
 // if startQuiz button clicked
 start_btn.onclick = () => {
-    console.log("Gundula");
     info_box.classList.add("activeInfo"); //show info box
 
 };
 
 // if exitQuiz button clicked
 exit_btn.onclick = () => {
-    console.log("Britta");
     info_box.classList.remove("activeInfo"); //hide info box
 };
 
 // if continueQuiz button clicked
 continue_btn.onclick = () => {
     info_box.classList.remove("activeInfo"); //hide info box
-    console.log("Charlilein");
     quiz_box.classList.add("activeQuiz"); //show quiz box
     /*showQuetions(0); //calling showQestions function
     queCounter(1); //passing 1 parameter to queCounter

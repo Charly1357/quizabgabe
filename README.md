@@ -74,7 +74,7 @@ four different answers
 
 # The question section
 
-![Game Area](IMG-8212.jpg)
+![Game Area](4Picture.jpeg)
 
 In this section the user can read the question
 and the number  and choose between four  

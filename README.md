@@ -52,7 +52,7 @@ I followed a blue white color scheme
 
 # Features
 
-![Title](IMG-8221.jpeg)
+![Title](title.jpeg)
 
 After pushing the Start Button the rules appear  
 You can either Exit or Continue  

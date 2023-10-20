@@ -119,6 +119,15 @@ simple it didn´t  crash.
     * 39:25 error 'document' is not defined
     * 40:23 / 41:20 /57:20the same
   
+# Browser Testing 
+
+| Browser |    Layout.  | Functionality |
+|---------|:-----------:|---------------|
+| Chrome  |     -[x]    |     -[x].     |
+| Edge    |     -[x]    |     -[x].     |
+| Firefox |     -[x]    |.    -[x].     |
+| Safari. |.    -[x].   |.    -[x].     |
+
 # Credits
 
 * YouTube Create a Quiz with Timer using HTML CSS Javascript.
